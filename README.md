@@ -62,7 +62,7 @@ I'm a passionate frontend developer from Türkiye.<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mottomice&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mottomice&theme=dark" height="180" />
+ 
 </div>
 
 ###

@@ -61,8 +61,8 @@ I'm a passionate frontend developer from Türkiye.<br><br>
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mottomice&show_icons=true&theme=dark&hide_border=false" height="180" alt="stats card" />
-  <img src="https://streak-stats.demolab.com?user=mottomice&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mottomice&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mottomice&theme=dark" height="180" />
 </div>
 
 ###

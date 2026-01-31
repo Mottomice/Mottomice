@@ -1,22 +1,19 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mehmet-ali-binektaş" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mehmet_ali_binektas@hotmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  <a href="https://linkedin.com/in/mehmet-ali-binektas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mottomice.mottomice&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mottomice.mottomice&" />
 </div>
 
 ###
@@ -25,44 +22,36 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">💫 About Me:</h3>
+
+- 🔭 I’m currently working on **HTML CV website**
+- 🤝 I’m looking for help with **JavaScript**
+- 🌱 I’m currently learning **Frontend Web Development**
+- 💬 Ask me about **anything**
 
 ###
 
-<p align="left">
-I'm a passionate frontend developer from Türkiye.<br><br>
-- 🔭 I’m currently working on **HTML, CSS and JavaScript**<br>
-- 📚 I'm currently learning **Advanced Frontend Development**<br>
-- ⚡ In my free time, I improve my coding skills and explore new technologies.
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">💻 Tech Stack:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotnet" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mottomice&show_icons=true&theme=dark" height="180" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mottomice&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mottomice&theme=dark" height="170" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mottomice&theme=dark&layout=compact" height="170" />
+</div>
